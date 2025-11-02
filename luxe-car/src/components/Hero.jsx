@@ -11,7 +11,7 @@ const Hero = () => {
         </h1>
         <div className="relative mt-12">
           <img 
-            src="./src/img/Front.jpg" 
+            src="/img/Front.jpg" 
             alt="Luxury Car"
             className="w-full max-w-4xl mx-auto rounded-lg"
           />
